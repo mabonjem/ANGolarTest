@@ -26,3 +26,17 @@
 /home/mo7/Documents/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.dll
 /home/mo7/Documents/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.pdb
 /home/mo7/Documents/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorTargetAssemblyInfo.cache
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.deps.json
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.json
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.dev.json
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.dll
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.pdb
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csprojAssemblyReference.cache
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csproj.CoreCompileInputs.cache
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cache
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cs
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfoInputs.cache
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfo.cs
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorTargetAssemblyInfo.cache
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.dll
+/home/mo7/Documents/Projects/ANGolarTest/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.pdb
